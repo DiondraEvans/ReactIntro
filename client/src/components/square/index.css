@@ -1,0 +1,7 @@
+.Square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blue;
+    background-color: azure;
+}

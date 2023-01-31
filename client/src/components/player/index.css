@@ -1,0 +1,6 @@
+.player-container{
+    color: red;
+    background-color: rgb(192, 192, 255);
+    display: inline-block;
+    width: 25%;
+}
